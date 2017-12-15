@@ -1,2 +1,2 @@
-# intron.io #
-The official website of the Intron programming language.
+# roselang.org #
+The official website of the Rose programming language.
